@@ -2,7 +2,8 @@
 <h3 align="center">A full-stack developer from Brazil</h3>
 
 <h3 align="center"> 
-  <a href="https://jmarcelo98.github.io/portfolio/">Site
+  <a href="https://jmarcelo98.github.io/portfolio/">
+    João Marcelo
   </a> 
 </h3>
 
