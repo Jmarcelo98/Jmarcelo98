@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm João Marcelo</h1>
 <h3 align="center">A full-stack developer from Brazil</h3>
 
-<h3 https://jmarcelo98.github.io/portfolio/ </h3>
+<h3 align="center"> 
+  <a href="https://jmarcelo98.github.io/portfolio/">Site
+  </a> 
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
