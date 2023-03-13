@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack developer from Brazil</h3>
 
 <h3 align="center"> 
-  <a href="www.joaomarcelo.dev">
+  <a href="https://joaomarcelo.dev/">
     João Marcelo
   </a> 
 </h3>
